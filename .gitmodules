@@ -1,16 +1,12 @@
 [submodule "Cin-phoria_api"]
 	path = Cin-phoria_api
 	url = https://github.com/Anothays/Cin-phoria_api.git
-	branch = main
 [submodule "Cin-phoria_web"]
 	path = Cin-phoria_web
 	url = https://github.com/Anothays/Cin-phoria_web.git
-	branch = main
 [submodule "Cin-phoria_mobile"]
 	path = Cin-phoria_mobile
 	url = https://github.com/Anothays/Cin-phoria_mobile.git
-	branch = main
 [submodule "Cin-phoria_desktop"]
 	path = Cin-phoria_desktop
 	url = https://github.com/Anothays/Cin-phoria_desktop.git
-	branch = main
